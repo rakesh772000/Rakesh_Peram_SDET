@@ -1,0 +1,4 @@
+Total Status Code Count: 62
+2XX Status Codes Count: 62
+4XX Status Codes Count: 0
+5XX Status Codes Count: 0
